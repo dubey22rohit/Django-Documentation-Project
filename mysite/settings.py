@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'votingsystem',
         'USER': 'postgres',
-        'PASSWORD': 'nvidia990',
+        'PASSWORD': 'yourpassword',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }
